@@ -1,0 +1,3 @@
+Xử lý ảnh số (Digital Image Processing): Đây là lĩnh vực chính mà các đoạn code này tập trung vào. Các tác vụ như biến đổi độ sáng, tương phản, cân bằng histogram, áp dụng các bộ lọc (như Median, Gaussian, Average, Min, Max), biến đổi Fourier, và các bộ lọc trong miền tần số (Butterworth Lowpass/Highpass) đều thuộc về xử lý ảnh số.
+
+Thị giác máy tính (Computer Vision): Mặc dù các tác vụ trong code chủ yếu là xử lý ảnh cấp thấp và trung gian, nhưng các thư viện như OpenCV (cv2) là nền tảng của thị giác máy tính. Xử lý ảnh số là một phần quan trọng của thị giác máy tính, đóng vai trò tiền xử lý để máy tính có thể "hiểu" và phân tích hình ảnh. Việc hiển thị ảnh và làm việc với các kênh màu cũng là một phần của thị giác máy tính.
